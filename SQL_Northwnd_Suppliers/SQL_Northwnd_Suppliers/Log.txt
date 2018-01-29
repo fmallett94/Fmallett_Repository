@@ -1,0 +1,6 @@
+1/25/2018 10:31:02 AM  Fatal  System.Data.Common.NameValuePair ParseInternal(System.Collections.Hashtable, System.String, Boolean, System.Collections.Hashtable, Boolean)  Keyword not supported: 'admin2-pc\sqlexpress; database'.
+1/25/2018 10:43:53 AM  Fatal  System.Data.Common.NameValuePair ParseInternal(System.Collections.Hashtable, System.String, Boolean, System.Collections.Hashtable, Boolean)  Keyword not supported: 'admin2-pc\sqlexpress; database'.
+1/25/2018 11:44:01 AM  Fatal  Void ReadAll()  'count' must be non-negative.
+Parameter name: count
+1/25/2018 11:48:02 AM  Fatal  Void ReadAll()  'count' must be non-negative.
+Parameter name: count

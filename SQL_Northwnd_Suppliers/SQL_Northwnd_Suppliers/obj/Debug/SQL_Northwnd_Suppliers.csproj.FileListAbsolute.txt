@@ -1,0 +1,7 @@
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\bin\Debug\SQL_Northwnd_Suppliers.exe.config
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\bin\Debug\SQL_Northwnd_Suppliers.exe
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\bin\Debug\SQL_Northwnd_Suppliers.pdb
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\obj\Debug\SQL_Northwnd_Suppliers.csprojResolveAssemblyReference.cache
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\obj\Debug\SQL_Northwnd_Suppliers.csproj.CoreCompileInputs.cache
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\obj\Debug\SQL_Northwnd_Suppliers.exe
+C:\Users\fmallett\source\repos\SQL_Northwnd_Suppliers\SQL_Northwnd_Suppliers\obj\Debug\SQL_Northwnd_Suppliers.pdb
